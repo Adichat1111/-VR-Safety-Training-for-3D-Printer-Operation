@@ -23,7 +23,7 @@ The goal of this project is to **improve safety awareness and operational unders
 
 ## Screenshot
 
-![VR Training Environment](docs/images/vr_training_environment.png)
+![VR Training Environment](docs/vr_training_environment.png)
 
 *Unity scene showing the VR safety training environment with the 3D printer workstation, hazard indicators, and interactive safety equipment.*
 
