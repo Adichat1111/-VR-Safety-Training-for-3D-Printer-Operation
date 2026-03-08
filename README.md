@@ -49,8 +49,7 @@ VR-Safety-Training-for-3D-Printer-Operation
 ├── ProjectSettings/     # Unity project configuration
 │
 ├── docs/
-│   └── images/
-│       └── vr_training_environment.png
+│   └── vr_training_environment.png
 │
 ├── .gitignore
 ├── LICENSE
