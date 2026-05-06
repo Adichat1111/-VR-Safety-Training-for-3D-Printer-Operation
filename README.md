@@ -31,7 +31,7 @@ Click the image above to watch the VR Safety Training demonstration video.
 
 ## Screenshot
 
-![VR Training Environment](docs/images/vr_training_environment.png)
+![VR Training Environment](docs/vr_training_environment.png)
 
 *Unity scene showing the VR safety training environment with the 3D printer workstation, hazard indicators, and interactive safety equipment.*
 
