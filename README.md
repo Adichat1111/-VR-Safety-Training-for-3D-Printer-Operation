@@ -21,9 +21,17 @@ The goal of this project is to **improve safety awareness and operational unders
 
 ---
 
+## 🎥 Project Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/YR489eyRGXM/0.jpg)](https://youtu.be/YR489eyRGXM)
+
+Click the image above to watch the VR Safety Training demonstration video.
+
+---
+
 ## Screenshot
 
-![VR Training Environment](docs/vr_training_environment.png)
+![VR Training Environment](docs/images/vr_training_environment.png)
 
 *Unity scene showing the VR safety training environment with the 3D printer workstation, hazard indicators, and interactive safety equipment.*
 
